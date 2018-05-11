@@ -18,6 +18,8 @@ exit-criteria: yes
 success-metrics: yes
 clear-roles: yes
 future-iterations: yes
+swarm-1: yes
+swarm-2: yes
 ---
 
 ## Preamble
