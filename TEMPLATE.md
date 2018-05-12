@@ -23,8 +23,20 @@ roles-needed:
     - Designer
     - Community
 okrs:
-    -
-    -
+op:
+id-num:
+objective:
+kr:
+key-result:
+swarm-1:
+swarm-2:
+swarm-3:
+swarm-4:
+swarm-5:
+mid-q-score:
+final-score:
+notes:
+ 
 ---
 
 ## Preamble
